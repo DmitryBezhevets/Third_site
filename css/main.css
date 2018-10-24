@@ -35,6 +35,10 @@ nav{
 	-o-transition: all 0.2s ease-in-out;
 }
 
+.div_icon:hover{
+	background-color: #fff;
+}
+
 .nav_img_icon{
 	padding-top: 20px;
 	width: 48px;
@@ -54,6 +58,10 @@ li{
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
+}
+
+.nav_a:hover{
+	color: #fff;
 }
 
 h6{
@@ -126,6 +134,12 @@ h6{
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
+}
+
+.discover_button_a:hover{
+	background-color: #fff;
+	border-radius: 3px;
+	border: 1px solid #ffbb05;
 }
 
 .discover_button_a:active{
@@ -289,6 +303,10 @@ h6{
 	-o-transition: all 0.2s ease-in-out;
 }
 
+.social_img:hover{
+	background-color: #ffbb05;
+}
+
 .grid_input{
 	display: -ms-grid;
 	display: grid;
@@ -357,6 +375,10 @@ h6{
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
+}
+
+.button_contact:hover{
+	background-color: #fff;
 }
 
 footer{
